@@ -44,7 +44,7 @@ const LoginPage = () => {
           <Logo />
 
           <Typography.Text className={styles.subtitleText}>
-            Selamat Datang, silakan masukkan akun anda untuk melanjutkan!
+            Enter your registered email and password.
           </Typography.Text>
 
           <Form
