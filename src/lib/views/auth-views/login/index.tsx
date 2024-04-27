@@ -4,7 +4,7 @@ import { createStyles } from 'antd-style'
 
 import InputItem from '@/lib/components/shared/DataEntry/InputItem'
 import Logo from '@/lib/components/shared/Layout/logo'
-import { useLoginPage } from '@/lib/hooks/auth/useLoginPage'
+import { useLoginPage } from '@/lib/views/auth-views/login/hooks/useLoginPage'
 
 const useStyles = createStyles({
   rootContainer: {
